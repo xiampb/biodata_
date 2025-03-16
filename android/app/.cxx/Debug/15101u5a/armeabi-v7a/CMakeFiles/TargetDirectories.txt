@@ -1,0 +1,2 @@
+D:/Pak Ari/tugas/biodata-main/android/app/.cxx/Debug/15101u5a/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Pak Ari/tugas/biodata-main/android/app/.cxx/Debug/15101u5a/armeabi-v7a/CMakeFiles/rebuild_cache.dir
